@@ -1,0 +1,40 @@
+
+.bg-slid-col{
+    background: #FEEAE9;
+}
+
+.btn-bg{
+    background: #FF136F;
+}
+.price-text-col{
+    color: #FF136F;
+}
+
+.hft{
+    color: #4E4E4E;
+}
+.hfs{
+    font-size: 50px;
+    color:#1F1F1F;
+    
+}
+
+.cta-img{
+    height: 100px;
+}
+
+.bg-cta-w{
+    background: linear-gradient(#FF9C35,#FFD019);
+}
+
+.bg-cta-b{
+    background: linear-gradient(#FF589B,#FF136F);
+}
+
+.bg-cta-s{
+    background: linear-gradient(#4289FF,#3F07F8);
+}
+
+.bg-subc{
+    background: #FFEAE8;
+}
